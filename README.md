@@ -2,6 +2,7 @@
 
 Find **contradictions** and **significant overlaps** across multiple documents in seconds.  
 Upload `.txt` / `.md` files, analyze with an LLM, and export a clean summary report.
+Deployment Link : https://hackwithhyderabad-klh-binarybrain.onrender.com
 
 ---
 
